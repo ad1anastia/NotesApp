@@ -1,0 +1,26 @@
+{
+  "configurations" : [
+    {
+      "id" : "AC5BE107-30EF-42AE-A05A-4E7F83D384FE",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "commandLineArgumentEntries" : [
+
+    ]
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:NotesApp.xcodeproj",
+        "identifier" : "9D54CE7F2D5F27BF009EFAA6",
+        "name" : "notesAppUITests"
+      }
+    }
+  ],
+  "version" : 1
+}
